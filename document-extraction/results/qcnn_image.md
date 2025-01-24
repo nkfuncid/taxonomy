@@ -142,21 +142,15 @@ HE)
 
 = 
 
-log4 
+log4 log 16 
 
-log 16 
-
-log log log8 32 32 = Solson 
-
-log8 
+log log8 log log8 32 32 = Solson 
 
 = } 
 
 => 
 
-log4 
-
-log13 
+log13 log4 
 
 A 
 
