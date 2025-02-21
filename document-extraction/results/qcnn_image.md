@@ -1302,9 +1302,9 @@ Validation 0.4
 U 
 
 * - QCNN
-* - Hybrid CNN loss
 * - OCNN loss
 * - Hybrid CNN
+* - Hybrid CNN loss
 * - Hybrid CNN Multi-Quantum
 * - Multiple Quantum loss
 
